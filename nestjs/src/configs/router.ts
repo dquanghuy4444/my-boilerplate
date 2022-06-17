@@ -1,0 +1,15 @@
+export const ROUTER_AUTHEN = 'auth';
+export const ROUTER_SERVICE_PRODUCT = 'service-products';
+export const ROUTER_SERVICE_PRODUCT_VARIANT = 'service-product-variants';
+export const ROUTER_USER = 'users';
+export const ROUTER_PRODUCT_BRAND = 'product-brands';
+export const ROUTER_PRODUCT_SIZE = 'product-sizes';
+export const ROUTER_PRODUCT_COLOR = 'product-colors';
+export const ROUTER_PRODUCT_COLOR_GROUP = 'product-color-groups';
+export const ROUTER_PRODUCT_MATERIAL = 'product-materials';
+export const ROUTER_USER_PRODUCT_TYPES = 'user-product-types';
+export const ROUTER_USER_PRODUCT = 'user-products';
+export const ROUTER_DRIVER = 'drivers';
+export const ROUTER_LAUNDRY_SERVICE = 'laundry-services';
+export const ROUTER_LAUNDRY_SERVICE_PRODUCT = 'laundry-service-products';
+export const ROUTER_LAUNDRY_SERVICE_PRODUCT_TYPES = 'laundry-service-product-types';

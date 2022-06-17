@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.idea/
+.vscode/
+
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
+
+serviceAccountKey.json
