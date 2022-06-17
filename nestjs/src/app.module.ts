@@ -8,7 +8,6 @@ import { ExceptionFormatter, ResponseFormatterInterceptor } from 'interceptors/r
 import { AuthModule } from './resources/auth/auth.module';
 import { FirebaseModule } from 'services/firebase/firebase.module';
 import { RolesGuard } from 'guards/roles.guard';
-import { ServiceProductVariantModule } from './resources/service-product-variant/service-product-variant.module';
 import { DriverModule } from './resources/driver/driver.module';
 
 mongoose.set('debug', true);
@@ -29,8 +28,6 @@ mongoose.set('debug', true);
         UserModule,
 
         AuthModule,
-
-        ServiceProductVariantModule,
 
         DriverModule,
     ],
