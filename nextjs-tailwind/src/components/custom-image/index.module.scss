@@ -1,0 +1,13 @@
+.customImage {
+    > div {
+        position: unset !important;
+        height: 100%;
+    }
+
+    .image {
+        object-fit: contain;
+        width: auto !important;
+        position: unset !important;
+        height: 100% !important;
+    }
+}

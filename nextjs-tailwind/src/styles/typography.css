@@ -1,0 +1,6 @@
+p {
+    line-height: 1;
+    font-weight: 400;
+    font-size: 1.15rem;
+    color: var(--color-brand-primary--secondary);
+}
