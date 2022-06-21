@@ -1,11 +1,11 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
+import Layout from 'layout'
+import HomeContainer from "containers/home"
 
-const Home: NextPage = () => {
-    return (
-        <></>
-    )
+const Home = () => {
+    return <HomeContainer></HomeContainer>
 }
 
 export default Home
+
+Home.Layout = Layout
+

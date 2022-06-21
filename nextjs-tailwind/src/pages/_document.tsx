@@ -12,7 +12,7 @@ class MyDocument extends Document {
         return (
             <Html lang={APP_HEADER.LOCALE}>
                 <Head>
-                    <title>Custom Your Face</title>
+                    <title>Dev Meme</title>
 
                     <meta charSet={"utf-8"} />
 

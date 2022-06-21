@@ -1,6 +1,5 @@
 import React from "react"
 
-
 interface ILayoutProps {
     children: React.ReactNode
 
@@ -9,6 +8,8 @@ interface ILayoutProps {
 export default function Layout({ children }: ILayoutProps) {
     return (
         <>
+            huy
+            {children}
         </>
     )
 }
